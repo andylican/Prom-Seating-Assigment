@@ -1,2 +1,3 @@
 # Prom-Seating-Assigment
-Multi-component software that allows students to buy tickets for PROM, and then assigns them to tables based on their friend preference.
+Authors: Andy Li
+.class files are compiled from other components authored by: Dennis C., Jerry Jiao, Sunny Cui, Theodore Liu
